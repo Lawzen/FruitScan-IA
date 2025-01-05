@@ -1,0 +1,47 @@
+[
+  {
+    "date": "2025-01-04 20:21:53",
+    "prediction": "banane",
+    "confidence": "98.82%"
+  },
+  {
+    "date": "2025-01-05 01:20:52",
+    "prediction": "banane",
+    "confidence": "62.99%"
+  },
+  {
+    "date": "2025-01-05 01:21:00",
+    "prediction": "goyave",
+    "confidence": "99.94%"
+  },
+  {
+    "date": "2025-01-05 01:21:03",
+    "prediction": "goyave",
+    "confidence": "99.94%"
+  },
+  {
+    "date": "2025-01-05 01:21:37",
+    "prediction": "abricot",
+    "confidence": "69.16%"
+  },
+  {
+    "date": "2025-01-05 01:21:57",
+    "prediction": "kaki",
+    "confidence": "100.00%"
+  },
+  {
+    "date": "2025-01-05 01:22:19",
+    "prediction": "banane",
+    "confidence": "92.52%"
+  },
+  {
+    "date": "2025-01-05 01:23:40",
+    "prediction": "fraise",
+    "confidence": "99.98%"
+  },
+  {
+    "date": "2025-01-05 01:24:05",
+    "prediction": "ananas",
+    "confidence": "98.60%"
+  }
+]

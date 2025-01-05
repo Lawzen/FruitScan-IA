@@ -1,0 +1,5 @@
+tensorflow
+pillow
+numpy
+sv-ttk
+customtkinter
